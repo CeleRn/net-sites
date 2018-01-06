@@ -1,0 +1,49 @@
+title: Hexo
+author: John Doe
+url: 'http://yoursite.com'
+root: /
+permalink: ':year/:month/:day/:title/'
+source_dir: source
+public_dir: public/orel
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: ':lang'
+new_post_name: ':title.md'
+default_layout: post
+titlecase: false
+external_link: true
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+highlight:
+  enable: true
+  line_number: true
+  auto_detect: false
+  tab_replace: null
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: '-date'
+default_category: uncategorized
+date_format: YYYY-MM-DD
+time_format: 'HH:mm:ss'
+per_page: 10
+pagination_dir: page
+theme: landscape
+deploy:
+  type: null
+subdomain:
+  smolensk:
+    city: Смоленск
+    inCity: в Смоленске
+    region: Смоленская область
+    inRegion: в Смоленской области
+  orel:
+    city: Орел
+    inCity: в Орле
+    region: Орловская область
+    inRegion: в Орловской области

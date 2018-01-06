@@ -1,0 +1,9 @@
+{
+  "public_dir": "public/orel",
+  "subdomain": {
+    "city": "Орел",
+    "inCity": "в Орле",
+    "region": "Орловская область",
+    "inRegion": "в Орловской области"
+  }
+}
